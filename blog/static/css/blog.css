@@ -53,3 +53,15 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
+.post-title{
+	display:flex;
+	flex-direction: row;
+}
+
+.button{
+	height:30px;
+	position:absolute;
+	right:0%;
+	margin:15px;
+}
